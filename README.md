@@ -33,4 +33,4 @@ Model:
 https://github.com/yselimd/Capstone_Project_2/blob/main/notebooks/Model.ipynb
 
 Detailed explannation can be found in the project report: 
-https://github.com/yselimd/Capstone_Project_2/blob/main/%20Capstone_Final_Report.pdf
+https://github.com/yselimd/Capstone_Project_2/blob/main/Capstone_Final_Report.pdf
